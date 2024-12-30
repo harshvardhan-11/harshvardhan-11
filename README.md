@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 ## About Me
-I am an AI and machine learning professional with 3.5 years of experience, specializing in machine learning, computer vision, and natural language processing. Currently, I am focusing on generative AI and have built multiple RAG (Retrieval-Augmented Generation) chatbots and Multi-AI Agent-based applications.
+I am an AI and machine learning professional with 4+ years of experience, specializing in machine learning, computer vision, and natural language processing. Currently, I am focusing on generative AI and have built multiple RAG (Retrieval-Augmented Generation) chatbots and Multi-AI Agent-based applications.
 
 Throughout my career, I have optimized AI systems for smart appliances within the consumer electronics domain and developed deep learning-based healthcare solutions. I have also implemented advanced neural network architectures for medical image analysis and created interactive visualization tools for clinical insights.
 
