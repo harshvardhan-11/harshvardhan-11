@@ -1,28 +1,37 @@
 # 👋 Welcome to My GitHub Profile!
 
-## About Me
-I am an AI and machine learning professional with 4+ years of experience, specializing in machine learning, computer vision, and natural language processing. Currently, I am focusing on generative AI and have built multiple RAG (Retrieval-Augmented Generation) chatbots and Multi-AI Agent-based applications.
+## Career Summary
 
-Throughout my career, I have optimized AI systems for smart appliances within the consumer electronics domain and developed deep learning-based healthcare solutions. I have also implemented advanced neural network architectures for medical image analysis and created interactive visualization tools for clinical insights.
+I am an experienced **AI and Machine Learning Engineer** with 4.5+ years of hands-on work across **Generative AI**, **Computer Vision**, and **Natural Language Processing**. My expertise spans the full AI development lifecycle—from problem formulation and data engineering to model deployment and backend integration.
 
-My expertise lies in integrating cutting-edge AI technologies into practical, scalable applications, delivering enhanced user experiences across diverse industries.
+Currently, I serve as a **Backend Engineer** focusing on **Agentic AI systems** and advanced **Retrieval-Augmented Generation (RAG)** architectures. I have architected and deployed multiple RAG-based conversational agents and autonomous task-driven AI systems, engineered to deliver context-rich, real-time responses in high-performance environments.
 
-## 🚀 Areas of Expertise
-- **Generative AI** 
-- **Computer Vision** & Image Processing
-- **Natural Language Processing**
-- **Deep Learning** Techniques
-- **Data Visualization** & Analytics
+### Highlights:
+- Developed multiple RAG and Agentic AI applications for real-world enterprise use.
+- Built scalable AI solutions for **banking**, **healthcare**, and **consumer electronics**.
+- Designed deep learning architectures for **medical imaging**, with interpretable visualization layers for clinical support.
+- Optimized and deployed **vision-based AI** models in edge computing environments.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita1195&label=Profile%20views&color=0e75b6&style=flat" alt="harshita1195" /> </p>
+My core strength lies in **bridging research-grade AI with scalable production systems**—ensuring that the innovations I build are not only intelligent, but also robust, efficient, and user-focused.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=harshita1195&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshita1195&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshita1195&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshita1195&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=dracula&hide_border=false&custom_title=My%20GitHub%20Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshita1195&layout=compact&theme=dracula&hide_border=false&langs_count=6&card_width=320" height="150" />
 </div>
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/harshita95/)
-  
 
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/harshita95/)
+- Open to collaborations, speaking engagements, and mentorship in AI/ML.
 
