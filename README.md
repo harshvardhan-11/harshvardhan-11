@@ -2,7 +2,7 @@
 
 ## Career Summary
 
-I am an AI/ML Engineer and Backend Developer with 5 years of experience delivering production-ready Generative AI, Agentic AI workflows, Computer Vision, and NLP solutions. My work focuses on creating scalable and reliable systems that integrate advanced machine learning capabilities with robust backend engineering.
+I am an AI/ML Engineer and Backend Developer with 5 years of experience delivering production-ready Generative AI, Agentic AI workflows, Computer Vision, and NLP solutions. My work focuses on creating scalable and reliable systems that integrate advanced AI capabilities with robust backend engineering.
 
 I specialize in architecting multi-agent AI systems, retrieval-augmented generation (RAG) pipelines, and cloud-native backend services for enterprise-grade applications. My experience spans the end-to-end lifecycle of AI solutions—from data processing and model development to deployment, monitoring, and optimization.
 
