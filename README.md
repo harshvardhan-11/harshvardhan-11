@@ -1,24 +1,20 @@
 # Welcome to My GitHub
 
-## Career Summary
+AI/ML Computational Science Specialist with 5.5+ years of experience designing, developing, and deploying production-ready applications using Machine Learning, Generative AI, and Agentic AI.
 
-AI/ML Engineer with 5+ years of experience building and deploying production-grade Generative AI, Agentic AI systems, Computer Vision, and NLP solutions. Specialized in designing scalable, reliable architectures that combine advanced AI capabilities with robust backend engineering.
+Currently at Accenture, I work on enterprise-grade Generative AI solutions for the banking sector, architecting and deploying RAG-based applications, agentic AI systems, and scalable AI platforms powered by Python, FastAPI, AWS, vector databases, and modern MLOps practices.
 
-Proven expertise in multi-agent orchestration, retrieval-augmented generation (RAG) pipelines, and cloud-native microservices, delivering enterprise solutions across banking, healthcare, and consumer domains.
-
-Strong experience across the full AI lifecycle: from data pipelines and model development to deployment, monitoring, and inference optimization for real-world performance.
+Previously, I developed AI-driven computer vision solutions for smart appliances at LG Soft India and contributed to healthcare AI research at Amity University, building deep learning models for clinical outcome prediction and computer vision systems for embryo grading.
 
 ### Core Expertise
-
-- Agentic AI & multi-agent workflow orchestration
-- Production-grade Generative AI systems
-- Scalable RAG architectures for enterprise conversational AI
-- Computer Vision (medical imaging, explainability-focused models)
-- Backend engineering (microservices, APIs, distributed systems)
-- Cloud-native AI deployment (AWS/GCP/Azure)
-- Inference optimization (low-latency, edge deployment)
-
----
+• Agentic AI & AI Agents
+• Generative AI & Large Language Models (LLMs)
+• Retrieval-Augmented Generation (RAG)
+• Machine Learning & Deep Learning
+• Computer Vision
+• Natural Language Processing (NLP)
+• MLOps, CI/CD & AI Deployment
+• Python, FastAPI, AWS, Docker, GitHub Actions, LangGraph
 
  
 Open to collaboration, technical developer/architect roles, and knowledge sharing in AI and backend engineering.
