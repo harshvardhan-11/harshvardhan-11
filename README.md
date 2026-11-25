@@ -1,6 +1,6 @@
 # Welcome to My GitHub
 
-AI/ML Computational Science Specialist with 5.5+ years of experience designing, developing, and deploying production-ready applications using Machine Learning, Generative AI, and Agentic AI.
+AI/ML Computational Science Specialist with almost 6 years of experience designing, developing, and deploying production-ready applications using Machine Learning, Generative AI, and Agentic AI.
 
 Currently at Accenture, I work on enterprise-grade Generative AI solutions for the banking sector, architecting and deploying RAG-based applications, agentic AI systems, and scalable AI platforms powered by Python, FastAPI, AWS, vector databases, and modern MLOps practices.
 
